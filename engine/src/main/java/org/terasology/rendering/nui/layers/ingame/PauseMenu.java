@@ -66,4 +66,3 @@ public class PauseMenu extends CoreScreenLayer {
         return false;
     }
 }
-
